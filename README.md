@@ -1,6 +1,6 @@
 # Camera Intrinsics Utilities
 
-This module provides a `CameraIntrinsics` class to manage and manipulate camera intrinsic parameters for a pinhole camera model. It supports both pixel-based and normalized intrinsics, along with a variety of transformations such as rescaling, padding, undistorting points, and conversion between pixel and normalized coordinates.
+This module provides a `CameraIntrinsics` class in the `core.py` script to manage and manipulate camera intrinsic parameters for a pinhole camera model. It supports both pixel-based and normalized intrinsics, along with a variety of transformations such as rescaling, padding, undistorting points, and conversion between pixel and normalized coordinates.
 
 ## Features
 
